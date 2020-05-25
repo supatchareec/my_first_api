@@ -1,0 +1,13 @@
+{
+  "name": "structure_express_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --experimental-modules index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
