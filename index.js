@@ -5,6 +5,7 @@ import userRouter from './routes/users.js';
 
 const app  = express();
 const port = 3000;
+// checge test
 
 app.use('/user', userRouter);
 app.use('/store', storeRouter);
